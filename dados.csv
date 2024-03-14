@@ -1,0 +1,1276 @@
+Conjunto de dados;;;;;;;;;sistema ERP XPTO
+A nota dos alunos do curso de Analytics;;;;27/09/2023;;;;;Escola DataNew
+Id;Nome;Idade;Nota;Genero;Altura (cm);Peso (kg);Cidade;Estado;Curso
+1;Abigail ;65; ;F;300; ;XMF;RJ;Química
+2;Acácia ;?;3;F;181;71;ALY;PR;Biologia
+3;;27;4;M; ;?; ;SP;Matemática
+4;Adelaide ;25; ;F;174;?;DBE;RS;Química
+5;;;8;F;?;87;QTT;PR;Física
+6;Adália ;39;2;F;123;60;ZEC;RS;Matemática
+7;Afrânio ;?;0;M;178;?;VAO;RJ;Biologia
+8;Afrodite ;54;1;F;?;124;PVA;MG;Química
+9;;22;10;F;190;?; ;PR;História
+10;Agustina ;43;7;F;117;77;WWE;RS;Física
+11;;?;10;M; ;87;QOU;MG;Física
+12;;53;?;F;288;73;YDR;RS;Biologia
+13;Aimée ;48; ;M;321;?;CZQ;RJ;Matemática
+14;Alba ;35;3;F;150;102;BCY;SP;Química
+15;Albina ;50;9;F;?;64; ;RS;Matemática
+16;Alaíde ;52;?;M;192;69; ;RJ;Química
+17;Alair ;68;1;M;193;89; ;PR;Física
+18;Alcina ;23;2;M;199;79; ;RS;Matemática
+19;Alcione ;61;4;F;400;?; ;RS;Matemática
+20;Alda ;21; ;M;375;?;TFG;PR;História
+21;Aleixo ;41;9;M;198;106;LLT;RS;Matemática
+22;Alexandra ;36; ;M;169;114;QGN;RJ;Química
+23;Aléxia ;77;0;M;117;71;JVA;SP;Física
+24;Alfreda ;27;0;F;190;53;KUW;RS;Matemática
+25;Alice ;47;10;M;103;50;XTI;RS;História
+26;Alida ;37;2;M;153;61;ODK;RS;Matemática
+27;Alina ;40;3;M;146;86; ;PR;Biologia
+28;Aline ;;0;M;170;88;EGC;RJ;História
+29;Aliz ;30;5;M;172;48;UVW;PR;Biologia
+30;Alma ;64;5;M;132;73;ZHK;RS;História
+31;Almélia ;45;4;F;175;116;OCP;RS;Matemática
+32;Amália ;60;8;M;110;58;RUL;PR;Física
+33;Amanda ;71;9;M;118;102;XJC;;Química
+34;Amélia ;77;8;F;151;62;SFQ;RS;Biologia
+35;América ;67;6;M;180;80;HMC;MG;Física
+36;Ana ;69;6;M;169;45;AEJ;RJ;História
+37;Anabela ;66; ;M;415;55;CUP;PR;História
+38;Anaís ;;3;F;133;113;MQK;SP;Física
+39;Anastácia ;73;4;M;158;72;CPT;SP;Biologia
+40;Andreia ;76;9;F;160;71;SIU;PR;Química
+41;Andrómaca ;74; ;M;187;99;ADV;SP;Química
+42;Andrómeda ;32;8;M;115;45;MLZ;SP;História
+43;Angélica ;;1;F;182;88;XVH;PR;Matemática
+44;Anhanguera ;28;9;F;100;90;ZPB;PR;Física
+45;Anita ;68;9;M;399;112;SOZ;MG;História
+46;Anne ;32;8;F;288;115;PPT;SP;Física
+47;Anselma ;50;1;M;140;112;TNW;PR;Biologia
+48;Antônia ;29;6;M;200;50;BNT;SP;Biologia
+49;Antonieta ;21;3;M;155;105;YLQ;PR;História
+50;Arabela ;;6;F;175;113;CMG;RJ;Química
+51;Arabi ;19;10;M;149;67;SXG;RS;História
+52;Araci ;33;8;F;195;72;CLK;MG;Física
+53;Arani ;65;2;F;138;115;YFT;PR;Química
+54;Aretusa ;50;9;M;155;60;;MG;História
+55;Ariana ;33;0;M;108;113;RCQ;SP;Física
+56;Arlete ;33;8;M;123;46;PKF;PR;Física
+57;Arsinoé ;33;2;M;117;123;CVY;PR;História
+58;Artêmio ;28;10;F;120;100;THD;RJ;História
+59;Artemisa ;50;2;F;105;89;PIX;PR;Biologia
+60;Aspásia ;73;8;F; ;55;EKS;MG;História
+61;Assunção ;31;9;M;100;57;ODO;SP;Química
+62;Astride ;72;9;F;?;?;OTG;SP;Química
+63;Atanásia ;67;8;M;163;?;RFH;PR;Química
+64;Atibaia ;77;0;M;153;81;UHI;RS;Física
+65;Audrey ;?;2;F;160;91;WSU;PR;Química
+66;Augusta ;39;2;M;?;75;HEA;MG;História
+67;Aura ;28;0;F;172;125;BOR;PR;Matemática
+68;Aurélia ;35;2;M;193;85;NZN;RJ;Biologia
+69;Aurora ;75;2;M;168;118;TWH;SP;Física
+70;Azaléia ;25; ;M;141;70;IPG;MG;História
+71;Aarão ;76;9;F;127;78;MGO;RS;História
+72;Abade ;22;?;F;?;92;JKH;RS;Matemática
+73;Abaeté ;53;4;F;113;81;ZXU;MG;Química
+74;Abdalá ;62;9;M;102;74;FDO;MG;Matemática
+75;Abdias ;55;?;M;118;94;RCI;SP;Física
+76;Abel ;45;4;M;108;60;FYU;SP;Física
+77;Abelardo ;37;2;M;161;112;BAY;PR;Biologia
+78;Abílio ;39;?;M;163;48;GLK;PR;Biologia
+79;Abner ;;3;M;151;112;DRT;MG;História
+80;Abraão ;49;1;M;156;59;DQB;SP;Física
+81;Abrilino ;?;10;M;156;58;MGX;PR;Física
+82;Absalão ;41;5;M;111;116;MFK;RJ;Biologia
+83;Absirto ;24;3;M;133;86;ARX;RJ;Matemática
+84;Abúndio ;38;4;F;142;119;PVL;MG;Matemática
+85;Acácio ;36;4;M;160;104;UWY;PR;Biologia
+86;Acemira ;28;10;M;145;49;VCZ;RJ;Química
+87;Acidália ;59;3;M;161;92;OKQ;MG;Química
+88;Acrácia ;52;7;F;130;47;ITZ;RJ;Biologia
+89;Acácio ;32;1;F;138;84;BCV;SP;História
+90;Adair ;70;7;M;124;116;KWQ;RS;Biologia
+91;Adalberto ;27;1;F;133;64;MSZ;PR;Física
+92;Adão ;24;7;M;104;78;PFE;RJ;Matemática
+93;Adauto ;63;7;F;103;50;CWW;MG;Química
+94;Adelardo ;77;1;F; ;52;JKJ;SP;História
+95;Adelelmo ;27;4;F;148;105;YMF;RS;Física
+96;Adelino ;41;3;M;115;99;BNN;RS;Matemática
+97;Adelson ;67; ;F;171;55;SWF;RJ;Matemática
+98;Ademar ;19;4;M;110;113;VTI;RS;Física
+99;Ademir ;40;6;F;107;118;HEF;RJ;Matemática
+100;Aderbal ;29;0;F;171;88;AGC;SP;Matemática
+101;Adérito ;31;6;F;103;85;DTC;RJ;Biologia
+102;Adhan ;;5;F;124;122;KVA;RJ;História
+103;Adolfo ;56;7;M;183;119;NMT;SP;Matemática
+104;Adonal ;65;0;M;153;112;ZWN;MG;Física
+105;Adonias ;30;8;F;139;45;GNI;RS;Biologia
+106;Adónis ;34;5;F;111;106;MLS;PR;Matemática
+107;Adriano ;31;4;M;191;125;VLB;RJ;Física
+108;Aécio ;34;2;F;192;72;YKF;SP;História
+109;Afif ;71; ;M;126;74;NZO;RJ;Biologia
+110;Afonso ;30;0;M;134;72;CHE;RJ;Biologia
+111;Afrânio ;41;  ;M;145;83;VXZ;RJ;Biologia
+112;Afrodísio ;39; ;F;130;72;IEM;RS;Biologia
+113;Agamémnon ;;7;F;137;107;WQN;RS;Biologia
+114;Agapito ;28;6;M;111;84;MNK;RJ;Biologia
+115;Agatão ;49;2;F;147;79;NWJ;RJ;História
+116;Agenor ;22;1;F;134;76;MSJ;PR;Física
+117;Agesilau ;57;9;F;121;73;WWL;SP;Matemática
+118;Agnelo ;25;1;F;147;125;PZU;PR;História
+119;Agostinho ;60;4;M;117;100;GAO;PR;Biologia
+120;Agripa ;50;3;F;180;77;IND;RS;Física
+121;Agripino ;51;6;M;159;85;HNZ;PR;Matemática
+122;Aguinaldo ;27;10;M;135;49;LHD;PR;Física
+123;Aimê ;42;6;F;127;79;XWU;RS;História
+124;Aírton ;52;6;M;129;68;EDC;RJ;Química
+125;Aílton ;66;2;M;138;104;LWZ;MG;História
+126;Aladino ;46;5;M;117;58;WEF;RS;Química
+127;Alaor ;56;3;M;144;54;JUY;RJ;Biologia
+128;Alarico ;;7;M;183;51;MPL;PR;História
+129;Albano ;67;9;F;136;78;QYY;SP;Matemática
+130;Albertino ;76;0;M;183;104;MAV;SP;Biologia
+131;Alberto ;59;6;M;156;58;BGL;SP;Física
+132;Albino ;62;4;F;122;83;VFT;RS;Matemática
+133;Alceu ;35;0;F;170;49;QUY;MG;Física
+134;Alcibíades ;59;4;M;147;118;VZS;RS;História
+135;Alcides ;76;0;M;183;117;TEO;RJ;Física
+136;Alcino ;69;9;M;160;59;;RJ;Matemática
+137;Alfonso ;41;4;F; ;60;RUP;RJ;Física
+138;Alfredo ;52;4;F;197;123;UUT;SP;Física
+139;Ali ;74;3;M;165;70;ZFK;RJ;Biologia
+140;Alípio ;63;8;F;135;48;OSJ;SP;Biologia
+141;Almançor ;36; ;M;100;116;LRB;SP;História
+142;Aloísio ;48;8;M;105;59;YWW;PR;Física
+143;Alonso ;60;2;F;200;112;ILW;SP;Química
+144;Altair ;58;7;M;138;90;RRJ;PR;História
+145;;42;3;F;199;68;IYN;MG;Física
+146;IQQPJ;;6;F;120;97;THN;PR;Química
+147;;23;8;M;115;114;YOQ;PR;História
+148;QMYGU;52;1;M;134;65;MNJ;RS;Química
+149;OPJPH;73;2;M;169;71;KSR;RS;Física
+150;ZCJKF;28;9;M;155;55;HFE;MG;Química
+151;;69;6;F;104;47;TCJ;MG;Matemática
+152;Álvaro;25;7;M;141;69;CPL;MG;História
+153;Antonio;33;5;M;179;115;PQN;SP;Biologia
+154;Andrés;37;2;F;132;115;GJT;PR;Física
+155;Adrián;19;2;F;177;119;BUF;SP;Biologia
+156;Alberto;73;3;M;151;71;ZJU;RS;História
+157;Ángel;46;8;F;136;89;DZD;RS;Matemática
+158;Alejandro;77;1;M;101;75;NGW;RJ;Matemática
+159;Alfonso;34;3;M;100;68;YPB;SP;Química
+160;Arturo;46;10;M;128;97;WYL;RS;Biologia
+161;Agustín;21;5;M;167;50;VOM;RJ;Física
+162;Arnaldo;63;2;M;125;50;MPN;PR;História
+163;Aarón;22;4;F;171;99;ZTE;PR;Biologia
+164;Amador;28;5;F;187;59;SND;SP;Biologia
+165;Alejo;29;6;M;180;78;HYE;RS;História
+166;Alonso;50;8;F;117;61;HJA;PR;História
+167;Armando;18;2;F;142;89;LJL;PR;Biologia
+168;Aníbal;77;3;M;182;52;KOH;RS;Biologia
+169;Abel;44;6;M;113;81;LXE;MG;Física
+170;Adolfo;43;7;F;137;69;FAB;SP;História
+171;Alan;39;1;F;142;95;OFX;SP;Física
+172;Aldo;66;6;M;153;78;HGW;RJ;História
+173;Amado;51;5;F;188;52;SPB;MG;História
+174;Apolo;71;3;M;137;99;NPI;RJ;Matemática
+175;Aleix;43;5;F;126;89;JOT;RS;Biologia
+176;Albino;38;3;M;137;85;EIY;SP;Física
+177;Alarico;21;2;F;124;77;TXC;MG;Matemática
+178;Alfredo;57;6;M;111;87;JXV;MG;Física
+179;Alcides;33;3;M; ;119;SGP;RJ;Matemática
+180;Axel;25;7;F;178;56;IQG;RJ;Física
+181;Aurelio;56;8;M;160;116;ETV;PR;Física
+182;Adriana;76;8;F;124;85;BPH;RJ;Química
+183;Ángela;20;1;F;181;95;XXS;RS;Matemática
+184;Ana;78;1;F;105;123;IJW;RJ;Física
+185;Alicia;26;1;F;194;79;JPX;RJ;História
+186;Andrea;77;1;M;103;121;DPI;RJ;Matemática
+187;Antonia;61;6;M;139;87;KBO;MG;Biologia
+188;Amalia;36;2;M;161;123;TCS;RS;Biologia
+189;Aurora;;1;M;140;120;JTA;PR;Física
+190;Alejandra;73;1;M;196;88;AQZ;MG;Física
+191;Agustina;78;2;F;190;64;MVP;PR;Matemática
+192;Áurea;55;1;M;107;68;KWB;RJ;Matemática
+193;Alma;43;2;M;118;90;TNZ;SP;Física
+194;Amparo;56;7;M;184;122;VMC;PR;Física
+195;Araceli;37;4;F;120;119;KXF;PR;Matemática
+196;Ainhoa;52;5;M;107;117;XDT;SP;História
+197;Alba;24;3;M;182;49;FGZ;MG;Química
+198;Almudena;50;1;M;118;53;?;RS;Física
+199;Arantxa;;7;M;172;87;FZG;RJ;Matemática
+200;Ascensión;;0;M;140;113;JJE;RS;Química
+201;Asunción;;0;F;137;77;KNU;PR;Física
+202;Ágata;53;8;F;102;94;OHT;SP;Biologia
+203;Azucena;40;5;M;182;85;QEV;RS;Matemática
+204;Anabel;20;3;F;142;98;QPM;RS;Física
+205;Alondra;47;7;F;143;86;KFC;RJ;Química
+206;África;24;7;F;137;57;DHL;SP;Biologia
+207;Alina;52;10;M;182;48;AQB;MG;História
+208;Amaya;70;3;F;182;68;UBP;MG;Química
+209;Angeles;37;7;F; ;58;DBN;MG;Biologia
+210;Artemisa;29;6;F;190;56;ITY;PR;Química
+211;Adela;60;8;M;192;59;VDC;MG;Biologia
+212;Alex;18;6;M;113;45;TYN;RS;Biologia
+213;Adrian;41;4;M;174;118;FYK;SP;Matemática
+214;Angel;26; ;M;179;107;HGF;SP;Química
+215;Avery;30;7;M;152;78;WPH;RS;Biologia
+216;Ariel;32;10;F;171;99;TMN;MG;Matemática
+217;Ashley;19;9;F;122;51;WQQ;SP;História
+218;Aspen;28;7;F;165;124;GPJ;RJ;Química
+219;August;63;5;F;109;88;CZD;RJ;Química
+220;Andy;58;0;F;173;105;AEZ;RJ;Matemática
+221;Aubrey;52;9;F;162;106;JVO;RS;Química
+222;Amari;40;8;M;195;75;TFM;RS;Física
+223;Ali;67;3;F;151;62;CRX;PR;História
+224;Arden;67;10;M;198;49;AOJ;SP;Química
+225;Adair;20;7;M;161;95;KDR;MG;Biologia
+226;Alva;41;2;M;155;55;DWC;RJ;Matemática
+227;Anton;76;6;F;100;125;SFS;MG;Física
+228;Asa;18;1;F;131;90;RCM;RS;Química
+229;Ainsley;32;6;M;159;84;BIM;PR;Biologia
+230;Auden;71;2;F;154;98;QLI;RJ;História
+231;Armani;32;5;F; ;76;KHL;RJ;História
+232;Alden;54;7;F;113;116;KEQ;MG;Química
+233;Alton;53;5;F;174;81;YFL;MG;Química
+234;Aries;63;0;M;133;55;MTE;RS;História
+235;Azariah;42;0;F;125;88;RBX;RS;Biologia
+236;Allyn;61;2;F;191;64;RFA;SP;Química
+237;Aja;24;1;F;163;84;OSY;RS;História
+238;Arlen;23;2;M;140;49;RRT;RS;Física
+239;Amal;31;5;F;194;123;LCA;PR;Química
+240;Artis;23;4;F;162;115;QDM;MG;Matemática
+241;Azriel;28;3;F;121;93;DTE;MG;Química
+242;Adélaïde;33;6;F;176;76;QXY;RS;Biologia
+243;Adeline;27;5;F;128;75;EBD;RJ;Química
+244;Alice;24;5;M;160;103;UOK;SP;Física
+245;Amélie;19;0;F;112;63;OIG;MG;Química
+246;Angélique;67;10;M;107;72;GRM;PR;Matemática
+247;Annette;26;10;F;193;110;EVQ;SP;Matemática
+248;Ariane;33;8;F;163;75;DXE;RJ;Matemática
+249;Astrid;51;8;M;106;110;ADC;MG;História
+250;Audrey;22;0;F;151;100;HPO;RJ;Química
+251;Aurore;25;8;M;191;112;MGM;RJ;Biologia
+252;Agathe;57;8;F;146;87;YFE;RS;História
+253;Alphonsine;24;8;M; ;117;GNV;SP;Química
+254;Anastasie;65;8;F;117;60;JGS;PR;História
+255;Antoinette;47;6;M;104;77;BZP;RJ;Física
+256;Apolline;73;10;F;114;98;YAY;PR;História
+257;Arlette;49;9;M;133;117;YNX;RS;Biologia
+258;Armelle;23;8;F;130;103;IQZ;RS;História
+259;Athénaïs;67;3;F;138;74;OBQ;MG;Química
+260;Aveline;77;8;M;142;115;NSX;RJ;Matemática
+261;Azélie;52;0;M;191;89;YIR;SP;Química
+262;Aimée;51;1;M;183;55;OTK;MG;Matemática
+263;Albertine;72;4;M;182;47;WGD;RS;Química
+264;Alexandrine;46;9;M;141;102;VNS;SP;Química
+265;Alix;49;10;M;158;92;DTN;PR;História
+266;Alma;47;1;F;102;111;HNP;RJ;Matemática
+267;Alphonsine;75;8;M;113;63;VYQ;SP;Química
+268;Ambre;53;0;M;106;68;MNC;MG;Biologia
+269;Anaïs;69;10;F;138;72;RZW;SP;Física
+270;Angèle;37;4;F;138;78;MQJ;RJ;Física
+271;Antonia;65;8;M;101;125;GTM;MG;Biologia
+272;Alain;;2;F;155;119;YYF;PR;Biologia
+273;Alexandre;37;7;F;178;58;IDP;SP;Matemática
+274;Antoine;55;10;F;175;104;OSK;MG;Biologia
+275;Albert;69;8;F;150;59;EXV;RS;Química
+276;André;;3;M;169;84;QOD;SP;História
+277;Arnaud;61;5;M;153;114;HOA;MG;Física
+278;Arthur;23;3;F;169;90;YXU;SP;Matemática
+279;Auguste;38;4;F;163;90;DLA;MG;Química
+280;Aubin;28;4;M;136;97;QXI;RS;História
+281;Aurélien;51;0;M;186;49;CBE;MG;Matemática
+282;Adrien;20;0;F;150;114;KSF;RJ;Química
+283;Anselme;21;10;F; ;49;YCS;SP;Biologia
+284;Adolphe;78;7;M;144;46;FPH;RS;Química
+285;Amédée;47;0;M;152;97;ARX;MG;História
+286;Amaury;18;1;F;147;72;GXW;SP;Física
+287;Angelo;46;9;M;194;62;KSO;RS;Biologia
+288;Armand;;2;M;190;92;YJC;SP;Biologia
+289;Achille;51;4;M;109;82;DPI;RS;História
+290;Alfred;62;1;F;138;120;QJJ;SP;Biologia
+291;Alphonse;76;2;F;137;49;VUY;PR;História
+292;Axel;52;4;F;196;68;VOZ;MG;Química
+293;Alaric;52;7;F;130;56;ISD;RS;Química
+294;Alban;57;7;M;129;89;LYY;SP;Matemática
+295;Ambroise;22;6;F;150;72;ZLI;PR;Biologia
+296;Arnold;75;10;F;144;57;NCK;SP;Química
+297;Ariel;;7;M;184;113;YYH;MG;Física
+298;Antonin;39;2;M;108;58;FUP;RJ;Química
+299;Aristide;56;6;M;180;58;BUJ;SP;Física
+300;Adémar;22;6;M;159;62;PFE;PR;Biologia
+301;Athanase;39;10;F;175;74;IOB;RJ;História
+302;Abigail;21;2;F;144;68;HRD;PR;Química
+303;Alice;29;0;M;136;66;END;RJ;História
+304;Amy;19;9;M;140;91;UID;SP;Física
+305;Amelia;32;4;F;198;60;SZN;RS;Biologia
+306;Ava;54;5;F;132;99;EGO;PR;Matemática
+307;Avery;67;6;M;143;47;POZ;RS;Matemática
+308;Anna;42;10;F;187;110;FEX;RS;Matemática
+309;Alexandra;58;3;F;188;117;WGJ;RJ;História
+310;Ashley;36;9;M;100;104;NYH;SP;Biologia
+311;Audrey;18;9;F;151;95;GIU;RS;Matemática
+312;Ariana;76;1;F;109;108;HRV;PR;Física
+313;April;41;0;F;103;123;WHI;RS;Química
+314;Autumn;57;1;F;183;83;MBW;RS;História
+315;Ariel;22;4;F;186;101;VNF;RS;Matemática
+316;Alison;52;0;M;116;83;VXB;RJ;Física
+317;Angela;47;1;F;180;56;DKT;PR;História
+318;Allison;63;3;M;146;49;CNT;SP;Física
+319;Aria;42;5;F;175;116;PEC;PR;Biologia
+320;Annabelle;44;1;F;151;79;CMA;MG;Biologia
+321;Alexa;32;1;F;172;103;GHC;MG;Química
+322;Alyssa;28;6;F;191;91;BCR;RJ;História
+323;Adelaide;64;7;F;183;110;ZLJ;RJ;Biologia
+324;Amanda;32;5;M;145;49;ICB;MG;História
+325;Amber;55;1;M;116;121;OSZ;MG;História
+326;Andrea;51;3;F;195;74;WEX;PR;Química
+327;Aurora;30;0;M;141;110;FWP;MG;Biologia
+328;Angelina;46;5;M;186;120;KHL;RJ;Biologia
+329;Athena;58;3;F;106;65;ITG;RJ;Biologia
+330;Adeline;71;2;M;169;77;KRM;RJ;Matemática
+331;Anastasia;47;7;F;144;93;OLF;SP;Biologia
+332;Alfred;37;10;F;151;101;NOF;MG;Biologia
+333;Alvin;64;0;F;155;113;QTM;PR;Biologia
+334;Albert;60;6;F;186;83;LIM;PR;Biologia
+335;Arnold;47;1;F;181;86;AAO;MG;Física
+336;Alton;36;4;F;160;67;PQC;RJ;História
+337;Alaric;27;7;F;120;75;YLP;RS;História
+338;Alden;64;7;F;113;92;ETD;MG;Matemática
+339;Alwin;76;0;M;123;55;KGB;MG;Matemática
+340;Alban;61;1;M;138;88;XQX;RS;História
+341;Arvin;57;10;M;176;58;BAW;PR;Biologia
+342;Asher;56;6;F;143;115;KAJ;MG;Matemática
+343;Avery;44;7;F;140;87;MCJ;MG;Matemática
+344;Albion;48;9;F;194;93;FIB;PR;Física
+345;Algar;54;9;M;184;113;DBY;RS;Matemática
+346;Alric;76;6;F;200;109;KCS;SP;História
+347;Aldric;21;7;F;121;95;HRL;RS;Matemática
+348;Alburt;59;0;F;173;97;DUF;PR;Física
+349;Almund;62;3;F;110;56;XDB;RJ;Física
+350;Albreda;25;8;M;121;113;HWP;SP;Química
+351;Andsware;50;4;M;195;46;PUK;SP;Química
+352;Alfie;42;8;F;143;105;ZOF;RJ;Biologia
+353;Arden;36;2;F;186;51;RRR;MG;Física
+354;Alger;68;0;F;133;55;PWA;RS;Física
+355;Alburtus;57;6;M;180;67;NFB;MG;Biologia
+356;Aldwin;61;0;F;134;104;IWK;MG;Química
+357;Aldous;68;0;M;164;120;ICV;SP;Física
+358;Aldhelm;21;2;M;157;81;HMN;MG;Física
+359;Alwyn;43;5;M;189;112;YHB;SP;História
+360;Albany;23;1;F;152;80;ZYW;MG;Química
+361;Alger;56;6;F;103;62;JWY;RS;Química
+362;;68;8;M;146;122;HYG;RJ;Matemática
+363;Álvaro Santos;70;3;M;182;95;WRZ;RS;Matemática
+364;Antonio Santos;29;9;F;120;121;LBT;SP;História
+365;Andrés Santos;65;2;M;181;46;VBR;MG;Matemática
+366;Adrián Santos;64;9;F;159;52;ILU;PR;História
+367;Alberto Santos;59;6;F;105;60;XWP;RS;Matemática
+368;Ángel Santos;18;6;F;104;54;PDU;PR;Matemática
+369;Alejandro Santos;73;10;M;143;57;QYA;RS;Química
+370;Alfonso Santos;42;10;M;195;119;SPR;RJ;Matemática
+371;Arturo Santos;61;1;M;177;110;PDH;SP;Matemática
+372;Agustín Santos;45;4;M;175;53;GIH;RS;História
+373;Arnaldo Santos;25;6;M;194;65;HJU;MG;Química
+374;Aarón Santos;65;4;F;166;89;PDM;MG;Física
+375;Amador Santos;28;0;F;149;97;KOM;PR;Física
+376;Alejo Santos;75;2;M;198;107;ADS;RJ;Biologia
+377;Alonso Santos;31;0;M;153;58;PSF;RS;História
+378;Armando Santos;18;4;F;154;78;CMF;PR;Química
+379;Aníbal Santos;35;10;F;109;74;SDV;RS;Química
+380;Abel Santos;24;10;F;127;91;LTF;MG;Química
+381;Adolfo Santos;64;5;M;181;103;BYI;RJ;Matemática
+382;Alan Santos;48;7;M;143;123;BHG;RJ;Biologia
+383;Aldo Santos;72;1;M;155;89;RKH;MG;Química
+384;Amado Santos;45;10;F;113;45;RMV;SP;História
+385;Apolo Santos;32;1;M;120;52;NKP;PR;História
+386;Aleix Santos;26;8;M;157;99;ATF;PR;Biologia
+387;Albino Santos;38;3;F;143;107;OBD;MG;Física
+388;Alarico Santos;78;0;M;123;111;KXF;RS;Biologia
+389;Alfredo Santos;55;9;F;144;79;QUN;RS;Química
+390;Alcides Santos;39;0;F;121;69;NHB;SP;Biologia
+391;Axel Santos;32;4;M;178;81;HXX;PR;Matemática
+392;Aurelio Santos;51;2;M;148;76;CCZ;SP;Biologia
+393;Adriana Santos;37;1;F;124;88;RVY;RS;Física
+394;Ángela Santos;54;5;M;116;68;CBR;PR;Física
+395;Ana Santos;36;1;F;175;53;LSM;PR;Matemática
+396;Alicia Santos;56;0;F;196;112;YXH;PR;Química
+397;Andrea Santos;34;9;M;183;73;MIY;RS;Química
+398;Antonia Santos;32;10;F;173;73;JSY;PR;Matemática
+399;Amalia Santos;58;2;F;122;106;;PR;História
+400;Aurora Santos;67;7;F;133;64;XRA;RS;Matemática
+401;Alejandra Santos;78;7;M;198;115;PTS;RJ;Química
+402;Agustina Santos;38;2;F;191;111;PCD;SP;Física
+403;Áurea Santos;67;1;M;164;46;DJH;RS;Matemática
+404;Alma Santos;76;7;F;164;66;EDX;RJ;Química
+405;Amparo Santos;50;7;M;164;111;VXC;PR;Física
+406;Araceli Santos;68;1;M;157;59;ICN;RJ;Física
+407;Ainhoa Santos;22;1;M;132;84;IUF;RS;História
+408;Alba Santos;78;0;F;112;67;UFA;PR;Biologia
+409;Almudena Santos;68;5;M;196;103;ULC;RJ;História
+410;Arantxa Santos;40;9;F;142;103;CQZ;RJ;Física
+411;Ascensión Santos;50;4;M;132;110;JXI;RS;Matemática
+412;Asunción Santos;50;2;F;192;66;LXV;RS;Química
+413;Ágata Santos;68;10;F;161;86;KJW;RS;História
+414;Azucena Santos;59;7;M;190;52;GBF;SP;Química
+415;Anabel Santos;66;1;M;199;100;ZVO;PR;Física
+416;Alondra Santos;78;2;M;145;86;KQP;PR;História
+417;África Santos;46;3;F;116;89;EWD;SP;Química
+418;Alina Santos;56;2;M;152;113;LWQ;MG;Química
+419;Amaya Santos;61;1;F;193;125;UJN;RJ;Matemática
+420;Angeles Santos;31;5;M;157;49;VHF;SP;Física
+421;Artemisa Santos;71;7;M;176;123;YIT;MG;Física
+422;Adela Santos;77;10;M;160;100;FBA;PR;História
+423;Alex Santos;20;3;F;157;57;DUJ;SP;História
+424;Adrian Santos;53;3;M;159;82;IEI;SP;Física
+425;Angel Santos;20;4;F;179;67;PMJ;RS;História
+426;Avery Santos;77;7;F;110;53;RAR;PR;Química
+427;Ariel Santos;31;2;M;100;78;MIQ;PR;Biologia
+428;Ashley Santos;68;2;M;124;60;CPV;PR;História
+429;Aspen Santos;64;9;M;179;81;QQP;RJ;Biologia
+430;August Santos;66;3;F;194;57;DTD;MG;Matemática
+431;Andy Santos;76;3;F;139;87;WBW;SP;Biologia
+432;Aubrey Santos;18;5;M;126;115;NAK;SP;Física
+433;Amari Santos;75;9;M;177;86;SBP;RS;Matemática
+434;Ali Santos;59;9;F;163;73;LWZ;RS;Biologia
+435;Arden Santos;73;7;M;127;52;FZX;PR;Química
+436;Adair Santos;19;6;F;197;108;CIT;PR;Biologia
+437;Alva Santos;68;4;F;186;99;?;RJ;Física
+438;Anton Santos;39;3;M;148;85;WUB;RS;Física
+439;Asa Santos;78;0;F;137;66;OES;RS;Biologia
+440;Ainsley Santos;24;10;M;119;84;JRT;SP;Matemática
+441;Auden Santos;32;7;F;173;104;WEZ;PR;Química
+442;Armani Santos;45;7;F;106;66;RPP;MG;Física
+443;Alden Santos;45;2;M;141;81;BBI;MG;História
+444;Alton Santos;55;8;M;157;68;BCI;MG;Física
+445;Aries Santos;19;6;F;119;70;BWT;MG;Biologia
+446;Azariah Santos;57;8;F;100;60;KTO;RS;Matemática
+447;Allyn Santos;43;10;M;147;83;OKE;PR;História
+448;Aja Santos;64;9;M;174;72;LLW;SP;História
+449;Arlen Santos;21;5;F;101;97;QJB;RS;História
+450;Amal Santos;66;0;M;100;70;KXJ;RS;Biologia
+451;Artis Santos;55;6;M;195;59;OQK;RS;Biologia
+452;Azriel Santos;57;7;F;153;74;ZMO;SP;História
+453;Adélaïde Santos;36;7;M;189;125;NZS;MG;Física
+454;Adeline Santos;66;5;F;198;102;UMW;MG;Biologia
+455;Alice Santos;60;4;F;147;101;HBR;RS;História
+456;Amélie Santos;56;10;M;108;105;CJB;RJ;Física
+457;Angélique Santos;29;1;M;172;69;ZTS;PR;História
+458;Annette Santos;73;9;M;165;62;HKD;SP;Física
+459;Ariane Santos;26;9;F;150;102;LWL;MG;Física
+460;Astrid Santos;45;2;M;129;75;XWT;RJ;Biologia
+461;Audrey Santos;18;6;F;187;65;WLN;PR;Matemática
+462;Aurore Santos;36;10;F;129;114;UWA;SP;Física
+463;Agathe Santos;29;6;M;125;50;CEG;MG;Física
+464;Alphonsine Santos;45;0;M;187;81;MVO;RJ;Biologia
+465;Anastasie Santos;43;9;M;178;60;ZGO;SP;Química
+466;Antoinette Santos;41;6;F;102;109;FJE;RJ;Física
+467;Apolline Santos;69;2;M;163;98;PUD;PR;Biologia
+468;Arlette Santos;24;4;F;115;97;CAN;RJ;História
+469;Armelle Santos;25;8;F;109;96;XLR;SP;Física
+470;Athénaïs Santos;38;9;M;194;66;YYM;RS;Química
+471;Aveline Santos;53;2;M;177;54;DOY;SP;Física
+472;Azélie Santos;37;1;F;103;46;EOB;RJ;História
+473;Aimée Santos;26;7;M;165;91;AES;PR;Matemática
+474;Albertine Santos;50;0;F;174;82;KAK;RJ;Física
+475;Alexandrine Santos;61;1;M;122;75;PHB;RJ;Física
+476;Alix Santos;66;10;F;165;109;QNP;RJ;História
+477;Alma Santos;25;8;F;185;76;QLM;SP;História
+478;Alphonsine Santos;75;1;F;104;65;CXW;SP;Química
+479;Ambre Santos;41;9;M;184;100;ELY;RS;Matemática
+480;Anaïs Santos;63;7;F;146;92;FQQ;RJ;História
+481;Angèle Santos;71;6;F;106;102;PZV;MG;Biologia
+482;Antonia Santos;19;6;F;198;65;WFC;RJ;Matemática
+483;Alain Santos;38;9;M;145;104;JVL;MG;Matemática
+484;Alexandre Santos;52;4;F;181;79;FNA;MG;Física
+485;Antoine Santos;71;8;F;183;111;TOZ;PR;História
+486;Albert Santos;18;1;M;126;63;QON;SP;Química
+487;André Santos;78;5;F;192;87;OZZ;PR;Biologia
+488;Arnaud Santos;68;1;M;108;94;JCS;PR;Química
+489;Arthur Santos;57;6;F;147;82;UOD;SP;Matemática
+490;Auguste Santos;65;10;F;112;80;JUG;RJ;Química
+491;Aubin Santos;72;2;M;119;100;XET;RS;Química
+492;Aurélien Santos;59;1;F;182;91;UBQ;SP;História
+493;Adrien Santos;49;10;M;101;87;USJ;SP;Física
+494;Anselme Santos;60;10;F;157;49;NAA;RJ;Química
+495;Adolphe Santos;58;1;F;137;91;FLA;RJ;Matemática
+496;Amédée Santos;64;1;F;174;115;BKR;MG;Física
+497;Amaury Santos;45;9;F;193;117;WIT;PR;Matemática
+498;Angelo Santos;40;0;F;198;60;TIK;RJ;Matemática
+499;Armand Santos;37;1;F;159;74;SZT;RS;Biologia
+500;Achille Santos;55;9;M;128;65;CHH;PR;Física
+501;Alfred Santos;39;9;M;182;88;UQB;PR;História
+502;Alphonse Santos;67;3;M;133;75;QAI;RJ;Física
+503;Axel Santos;18;0;F;178;63;GQV;RS;História
+504;Alaric Santos;28;5;F;190;63;VNP;SP;Matemática
+505;Alban Santos;59;8;M;123;115;WKR;SP;Biologia
+506;Ambroise Santos;50;8;F;145;105;VRO;SP;Física
+507;Arnold Santos;37;0;F;137;95;LEI;RS;Física
+508;Ariel Santos;61;7;F;105;60;TLK;PR;Química
+509;Antonin Santos;40;6;M;198;63;RSD;MG;Biologia
+510;Aristide Santos;33;3;M;117;107;XJP;SP;Física
+511;Adémar Santos;31;7;M;147;109;MXM;MG;Química
+512;Athanase Santos;33;2;M;141;123;LUC;RJ;Matemática
+513;Abigail Santos;20;7;F;144;80;YPU;MG;Matemática
+514;Alice Santos;37;2;F;184;82;VNA;RJ;Biologia
+515;Amy Santos;20;8;M;118;83;AZD;RJ;Biologia
+516;Amelia Santos;75;1;F;182;94;YVD;PR;Matemática
+517;Ava Santos;56;4;M;181;64;TAY;RJ;Biologia
+518;Avery Santos;29;9;M;169;123;KMF;PR;Matemática
+519;Anna Santos;64;1;M;166;83;UID;RJ;Química
+520;Alexandra Santos;56;1;M;167;51;WYQ;RS;Química
+521;Ashley Santos;63;10;M;104;121;YBZ;PR;Biologia
+522;Audrey Santos;65;0;F;121;82;GZX;RJ;Física
+523;Ariana Santos;54;7;F;119;84;ZAA;PR;Biologia
+524;April Santos;74;4;M;164;61;PNU;RS;Física
+525;Autumn Santos;38;8;F;160;98;KTU;RJ;Biologia
+526;Ariel Santos;72;9;M;113;53;FXO;RS;Física
+527;Alison Santos;43;7;M;154;59;AEN;MG;Física
+528;Angela Santos;76;10;M;188;66;QVR;PR;Biologia
+529;Allison Santos;27;9;F;161;59;YPZ;RJ;Biologia
+530;Aria Santos;23;2;M;140;121;WZC;PR;Física
+531;Annabelle Santos;25;4;F;188;106;PPR;MG;Química
+532;Alexa Santos;31;4;F;123;73;GAT;MG;Química
+533;Alyssa Santos;18;5;M;103;110;FYA;SP;Matemática
+534;Adelaide Santos;54;4;F;191;104;QTN;PR;Química
+535;Amanda Santos;60;1;M;142;124;DEO;MG;Biologia
+536;Amber Santos;44;3;M;114;55;USN;RJ;Biologia
+537;Andrea Santos;22;5;F;115;69;OTZ;PR;Matemática
+538;Aurora Santos;72;8;F;103;93;COB;RS;História
+539;Angelina Santos;55;7;M;123;70;EYX;;Química
+540;Athena Santos;38;2;F;137;79;YLV;MG;Química
+541;Adeline Santos;18;8;F;159;90;VVZ;RS;Matemática
+542;Anastasia Santos;44;5;M;193;93;EVY;RJ;Química
+543;Alfred Santos;34;6;F;125;106;NOA;MG;Física
+544;Alvin Santos;51;2;F;131;56;PWX;MG;Biologia
+545;Albert Santos;77;6;F;157;105;XFJ;MG;Biologia
+546;Arnold Santos;40;3;F;174;60;?;MG;História
+547;Alton Santos;49;4;F;175;54;QNN;MG;História
+548;Alaric Santos;43;1;F;200;64;LHE;MG;Matemática
+549;Alden Santos;20;2;F;179;89;HKD;MG;Física
+550;Alwin Santos;24;2;F;175;64;PHP;MG;Biologia
+551;Alban Santos;20;1;F;149;118;QYS;MG;Química
+552;Arvin Santos;78;8;M;185;91;NRA;MG;Matemática
+553;Asher Santos;61;8;M;147;111;RFE;RS;Matemática
+554;Avery Santos;69;7;F;104;79;JHF;PR;Matemática
+555;Albion Santos;22;3;M;109;73;FBJ;RS;Química
+556;Algar Santos;58;6;F;139;63;IWS;PR;Matemática
+557;Alric Santos;26;1;M;179;115;PJQ;PR;História
+558;Aldric Santos;75;9;M;180;60;FMM;RS;Biologia
+559;Alburt Santos;36;3;F;123;125;OLL;RS;Matemática
+560;Almund Santos;23;9;M;128;121;RZX;RS;História
+561;Albreda Santos;25;5;F;133;58;BGO;MG;Física
+562;Andsware Santos;68;8;F;147;69;SFK;SP;Química
+563;Alfie Santos;72;9;F;177;80;QDH;PR;Biologia
+564;Arden Santos;29;4;F;166;80;ZSA;RJ;Matemática
+565;Alger Santos;39;5;F;173;56;RCX;PR;Biologia
+566;Alburtus Santos;40;9;M;127;121;ZTH;RJ;Biologia
+567;Aldwin Santos;78;10;M;163;97;QGP;RJ;Biologia
+568;Aldous Santos;37;6;M;130;55;RYM;MG;Física
+569;Aldhelm Santos;73;4;F;161;79;BRS;RJ;História
+570;Alwyn Santos;57;6;F;149;50;TXK;RS;Matemática
+571;Albany Santos;20;10;M;140;96;BBO;PR;História
+572;Alger Santos;21;10;F;160;81;ACZ;RJ;Matemática
+573;Álvaro Albuquerque;30;1;M;102;105;GMT;PR;Matemática
+574;Antonio Albuquerque;49;4;M;168;106;USB;RS;História
+575;Andrés Albuquerque;66;4;M;132;55;LLH;RJ;Química
+576;Adrián Albuquerque;56;9;F;134;71;TDW;PR;História
+577;Alberto Albuquerque;62;5;F;108;115;USM;SP;Biologia
+578;Ángel Albuquerque;61;3;F;133;97;ICT;SP;História
+579;Alejandro Albuquerque;48;1;F;153;112;GEP;RS;História
+580;Alfonso Albuquerque;67;6;M;125;122;PVG;MG;Biologia
+581;Arturo Albuquerque;39;6;M;115;69;ILH;PR;Física
+582;Agustín Albuquerque;36;9;F;131;115;HML;SP;Química
+583;Arnaldo Albuquerque;76;9;M;150;106;XKJ;MG;História
+584;Aarón Albuquerque;19;1;M;169;60;JDN;SP;Química
+585;Amador Albuquerque;33;3;F;182;120;DIE;SP;Matemática
+586;Alejo Albuquerque;67;5;F;197;61;TJN;RS;Química
+587;Alonso Albuquerque;31;2;M;106;97;UIT;PR;Matemática
+588;Armando Albuquerque;41;10;F;182;112;FWX;RS;Matemática
+589;Aníbal Albuquerque;72;4;M;132;49;WKJ;RJ;Biologia
+590;Abel Albuquerque;51;5;M;184;90;DQI;PR;Química
+591;Adolfo Albuquerque;33;2;M;174;84;MZK;RS;Biologia
+592;Alan Albuquerque;64;2;F;159;79;ULM;PR;Matemática
+593;Aldo Albuquerque;40;7;M;195;46;USS;RS;Química
+594;Amado Albuquerque;51;3;M;115;62;LYA;MG;História
+595;Apolo Albuquerque;30;2;M;184;93;NLF;RS;Biologia
+596;Aleix Albuquerque;29;6;F;147;116;FEM;MG;Física
+597;Albino Albuquerque;42;4;F;127;97;DBA;MG;Física
+598;Alarico Albuquerque;54;5;M;176;96;FWO;PR;Química
+599;Alfredo Albuquerque;75;8;F;168;66;XIA;PR;Biologia
+600;Alcides Albuquerque;78;7;M;186;74;SNY;PR;Química
+601;Axel Albuquerque;39;4;M;147;49;UTC;RS;Física
+602;Aurelio Albuquerque;68;5;M;118;89;ALN;PR;Biologia
+603;Adriana Albuquerque;37;4;M;145;90;IFL;RJ;Biologia
+604;Ángela Albuquerque;50;3;M;139;125;YGM;RJ;Matemática
+605;Ana Albuquerque;45;0;M;147;99;BIC;RJ;Matemática
+606;Alicia Albuquerque;44;1;F;190;93;GWL;RJ;Física
+607;Andrea Albuquerque;32;3;M;187;88;FZY;SP;Biologia
+608;Antonia Albuquerque;77;6;F;124;45;KXW;MG;Biologia
+609;Amalia Albuquerque;63;7;F;131;92;SSP;MG;Física
+610;Aurora Albuquerque;18;1;M;125;77;QQE;PR;Física
+611;Alejandra Albuquerque;66;3;F;147;57;HQY;RJ;Biologia
+612;Agustina Albuquerque;58;7;F;186;50;ZWI;SP;História
+613;Áurea Albuquerque;29;7;M;125;78;HSH;RS;História
+614;Alma Albuquerque;32;6;F;115;58;BQO;RJ;História
+615;Amparo Albuquerque;42;9;F;154;66;JHB;RS;Biologia
+616;Araceli Albuquerque;68;8;F;139;100;SQK;PR;História
+617;Ainhoa Albuquerque;50;5;M;180;58;NUC;RS;Matemática
+618;Alba Albuquerque;77;6;F;198;120;FBW;SP;Química
+619;Almudena Albuquerque;37;2;M;150;55;HXU;RS;Física
+620;Arantxa Albuquerque;34;3;F;133;120;UPV;SP;Matemática
+621;Ascensión Albuquerque;73;7;F;154;121;HXW;MG;Química
+622;Asunción Albuquerque;44;3;F;127;63;WME;RS;Matemática
+623;Ágata Albuquerque;34;3;F;111;120;NMF;SP;História
+624;Azucena Albuquerque;54;2;M;173;103;NUA;RS;Matemática
+625;Anabel Albuquerque;39;6;M;121;92;ZZY;PR;Química
+626;Alondra Albuquerque;64;2;F;142;84;GNZ;RJ;Matemática
+627;África Albuquerque;47;5;M;139;125;TVQ;RJ;História
+628;Alina Albuquerque;24;6;F;194;80;DPR;SP;História
+629;Amaya Albuquerque;21;0;F;152;68;HKU;PR;Biologia
+630;Angeles Albuquerque;47;0;F;155;96;XWR;MG;Química
+631;Artemisa Albuquerque;21;6;M;157;118;BWY;PR;Biologia
+632;Adela Albuquerque;72;0;M;121;95;AQP;RJ;Matemática
+633;Alex Albuquerque;40;0;M;149;124;UJY;RS;Biologia
+634;Adrian Albuquerque;20;0;F;124;96;OQX;MG;Matemática
+635;Angel Albuquerque;28;0;F;185;111;EEI;RS;Matemática
+636;Avery Albuquerque;64;3;M;188;50;KLA;SP;Biologia
+637;Ariel Albuquerque;61;7;F;167;62;EHG;MG;Física
+638;Ashley Albuquerque;49;10;M;159;107;EOM;SP;Biologia
+639;Aspen Albuquerque;72;6;M;174;105;LSV;MG;Física
+640;August Albuquerque;26;8;M;110;55;VKS;PR;Biologia
+641;Andy Albuquerque;78;2;M;140;79;HMN;MG;Matemática
+642;Aubrey Albuquerque;23;0;M;124;122;VFZ;RS;Física
+643;Amari Albuquerque;48;1;M;132;66;KDA;RJ;Química
+644;Ali Albuquerque;55;6;M;139;88;YVP;MG;Biologia
+645;Arden Albuquerque;75;9;F;192;112;WTV;RJ;Física
+646;Adair Albuquerque;75;4;M;155;116;OXY;MG;Física
+647;Alva Albuquerque;49;9;F;103;48;BFM;SP;Química
+648;Anton Albuquerque;42;6;M;116;51;IMH;RJ;Química
+649;Asa Albuquerque;47;7;M;168;105;VKI;MG;Biologia
+650;Ainsley Albuquerque;20;0;M;192;92;YUG;RS;Biologia
+651;Auden Albuquerque;48;8;F;189;114;VQO;MG;Matemática
+652;Armani Albuquerque;39;2;F;107;88;YVD;RS;Matemática
+653;Alden Albuquerque;73;7;F;190;69;FTS;PR;História
+654;Alton Albuquerque;75;5;M;163;94;QKJ;RJ;Biologia
+655;Aries Albuquerque;57;9;F;131;103;QKM;MG;Matemática
+656;Azariah Albuquerque;49;2;F;179;54;VYN;RS;Matemática
+657;Allyn Albuquerque;32;7;M;100;61;BCS;SP;Matemática
+658;Aja Albuquerque;18;10;F;115;100;DTB;SP;Biologia
+659;Arlen Albuquerque;27;5;M;114;63;GMB;RS;Química
+660;Amal Albuquerque;53;9;M;199;70;LOY;RJ;Biologia
+661;Artis Albuquerque;48;5;F;102;109;LHS;PR;Física
+662;Azriel Albuquerque;29;0;F;198;75;KWD;RJ;Física
+663;Adélaïde Albuquerque;52;6;M;166;117;IDH;PR;Química
+664;Adeline Albuquerque;66;5;F;177;118;IBH;PR;Biologia
+665;Alice Albuquerque;66;2;F;149;79;XWW;RS;Química
+666;Amélie Albuquerque;77;8;M;134;74;CWL;RS;Matemática
+667;Angélique Albuquerque;19;6;F;192;87;XAK;PR;Física
+668;Annette Albuquerque;22;7;M;185;67;UUW;MG;História
+669;Ariane Albuquerque;42;6;M;131;57;USV;RS;Biologia
+670;Astrid Albuquerque;74;10;F;181;73;VND;PR;História
+671;Audrey Albuquerque;36;1;M;137;64;ECY;MG;Química
+672;Aurore Albuquerque;51;7;M;150;108;VAF;RJ;Matemática
+673;Agathe Albuquerque;35;2;M;143;100;JLZ;;Física
+674;Alphonsine Albuquerque;54;7;M;128;58;JHC;SP;Matemática
+675;Anastasie Albuquerque;26;8;M;195;86;HMV;RJ;História
+676;Antoinette Albuquerque;38;10;F;141;118;WKI;RS;História
+677;Apolline Albuquerque;27;1;M;178;71;GWF;PR;Química
+678;Arlette Albuquerque;33;8;F;113;65;NCZ;SP;Biologia
+679;Armelle Albuquerque;59;0;M;184;50;?;RJ;Biologia
+680;Athénaïs Albuquerque;22;6;F;108;97;ZGE;SP;Biologia
+681;Aveline Albuquerque;72;8;F;112;95;UWU;SP;Física
+682;Azélie Albuquerque;34;4;M;124;68;JFF;PR;Química
+683;Aimée Albuquerque;40;0;F;120;74;HJN;PR;Química
+684;Albertine Albuquerque;49;9;M;185;59;RXN;SP;Química
+685;Alexandrine Albuquerque;66;8;M;186;64;LTX;RS;História
+686;Alix Albuquerque;53;6;F;200;99;XUT;RJ;Matemática
+687;Alma Albuquerque;46;3;F;128;92;RLS;RJ;Biologia
+688;Alphonsine Albuquerque;23;5;F;133;75;QSD;SP;História
+689;Ambre Albuquerque;62;6;M;103;92;XXP;MG;Biologia
+690;Anaïs Albuquerque;71;0;M;131;58;BPO;RJ;Biologia
+691;Angèle Albuquerque;33;1;F;157;121;LBL;RS;Física
+692;Antonia Albuquerque;59;3;F;176;75;UGT;SP;Matemática
+693;Alain Albuquerque;35;3;M;188;63;WHV;MG;Matemática
+694;Alexandre Albuquerque;27;2;M;182;115;NZE;MG;Biologia
+695;Antoine Albuquerque;51;9;F;162;78;TXR;MG;Matemática
+696;Albert Albuquerque;55;6;F;112;95;JQP;RS;História
+697;André Albuquerque;20;4;F;181;56;KBH;SP;Física
+698;Arnaud Albuquerque;58;3;M;180;90;GUK;RJ;Física
+699;Arthur Albuquerque;63;4;F;183;100;LHX;RJ;Física
+700;Auguste Albuquerque;53;5;F;196;59;QNA;MG;Química
+701;Aubin Albuquerque;57;5;F;102;68;ZEJ;PR;Matemática
+702;Aurélien Albuquerque;35;1;M;132;123;HNE;PR;Física
+703;Adrien Albuquerque;49;9;F;172;99;PGD;RS;Física
+704;Anselme Albuquerque;65;10;F;147;106;DVQ;SP;Física
+705;Adolphe Albuquerque;23;7;M;100;49;UTZ;RS;Física
+706;Amédée Albuquerque;65;6;M;101;59;IZI;MG;Biologia
+707;Amaury Albuquerque;78;10;M;191;79;MQB;;História
+708;Angelo Albuquerque;34;10;F;118;58;KDI;SP;História
+709;Armand Albuquerque;61;4;F;136;78;NQB;RS;História
+710;Achille Albuquerque;26;8;M;133;60;CUN;PR;Química
+711;Alfred Albuquerque;33;3;F;190;76;EPV;RS;Biologia
+712;Alphonse Albuquerque;39;7;M;125;92;WCJ;SP;Matemática
+713;Axel Albuquerque;68;2;M;107;56;KMW;RS;História
+714;Alaric Albuquerque;40;7;F;122;97;SKN;RJ;Biologia
+715;Alban Albuquerque;53;5;M;127;89;NAT;PR;Matemática
+716;Ambroise Albuquerque;74;4;F;174;122;NGV;RJ;Química
+717;Arnold Albuquerque;29;6;F;180;99;GRU;MG;Matemática
+718;Ariel Albuquerque;66;1;F;165;58;EXH;RS;História
+719;Antonin Albuquerque;76;10;M;167;54;YKD;RJ;Matemática
+720;Aristide Albuquerque;77;0;M;164;123;WAJ;MG;Física
+721;Adémar Albuquerque;78;1;F;172;86;JWA;RS;Física
+722;Athanase Albuquerque;74;10;M;169;117;LFS;RJ;História
+723;Abigail Albuquerque;35;2;M;180;115;GXH;MG;Química
+724;Alice Albuquerque;51;2;F;164;97;TPD;RS;Matemática
+725;Amy Albuquerque;30;7;M;189;119;DZT;RS;Física
+726;Amelia Albuquerque;47;9;F;122;61;HBY;SP;Química
+727;Ava Albuquerque;37;9;F;180;63;WZH;RJ;Biologia
+728;Avery Albuquerque;55;4;M;196;116;BDA;PR;Química
+729;Anna Albuquerque;73;0;F;146;102;NVR;RJ;História
+730;Alexandra Albuquerque;67;0;M;163;120;VRI;PR;Matemática
+731;Ashley Albuquerque;62;2;F;119;98;BZK;PR;Matemática
+732;Audrey Albuquerque;52;3;M;123;66;IEY;RS;Biologia
+733;Ariana Albuquerque;64;6;M;153;87;UHT;PR;História
+734;April Albuquerque;73;9;F;181;106;KMG;SP;Matemática
+735;Autumn Albuquerque;50;10;M;107;91;XBK;SP;Física
+736;Ariel Albuquerque;49;10;M;113;78;WZP;PR;Biologia
+737;Alison Albuquerque;61;2;F;140;102;DNV;RS;História
+738;Angela Albuquerque;77;6;M;103;118;TUR;PR;Biologia
+739;Allison Albuquerque;72;7;M;129;45;VGZ;PR;Química
+740;Aria Albuquerque;49;2;F;125;54;BVK;MG;Biologia
+741;Annabelle Albuquerque;36;4;F;138;121;WVA;MG;Química
+742;Alexa Albuquerque;21;4;F;185;70;ZQU;SP;Matemática
+743;Alyssa Albuquerque;56;8;M;178;82;UIA;;Química
+744;Adelaide Albuquerque;23;6;M;197;56;XAK;RJ;Matemática
+745;Amanda Albuquerque;76;6;F;183;47;RSD;SP;Matemática
+746;Amber Albuquerque;33;4;M;119;45;ELQ;PR;Matemática
+747;Andrea Albuquerque;61;2;F;133;55;JMR;PR;História
+748;Aurora Albuquerque;69;1;F;114;122;GUO;RS;Matemática
+749;Angelina Albuquerque;41;0;F;172;95;ZPE;RJ;Biologia
+750;Athena Albuquerque;70;4;F;136;103;WQU;MG;Biologia
+751;Adeline Albuquerque;40;5;M;134;103;YYU;;Física
+752;Anastasia Albuquerque;37;2;M;116;79;VZT;PR;História
+753;Alfred Albuquerque;56;10;F;112;86;TXV;PR;Matemática
+754;Alvin Albuquerque;75;5;M;110;73;VOK;PR;História
+755;Albert Albuquerque;76;9;M;171;99;LPS;PR;Biologia
+756;Arnold Albuquerque;58;2;M;101;106;LHP;RJ;Matemática
+757;Alton Albuquerque;25;10;M;122;79;GMQ;RS;História
+758;Alaric Albuquerque;64;0;M;196;82;ZUF;RJ;História
+759;Alden Albuquerque;39;10;M;132;72;TBL;RJ;Química
+760;Alwin Albuquerque;29;5;M;140;81;ERF;RS;História
+761;Alban Albuquerque;23;8;M;156;118;XAR;SP;Física
+762;Arvin Albuquerque;26;0;F;184;103;HUX;RJ;Física
+763;Asher Albuquerque;46;1;F;198;106;CVD;SP;Física
+764;Avery Albuquerque;40;0;M;185;87;CUN;RJ;Química
+765;Albion Albuquerque;33;8;M;102;85;AZL;PR;História
+766;Algar Albuquerque;59;6;F;144;68;RIQ;RS;Matemática
+767;Alric Albuquerque;61;3;F;170;45;ZKF;PR;Física
+768;Aldric Albuquerque;39;0;F;115;106;QNX;SP;História
+769;Alburt Albuquerque;55;3;M;105;124;KRM;MG;História
+770;Almund Albuquerque;74;9;F;130;66;BZM;PR;Física
+771;Albreda Albuquerque;39;8;M;164;82;KHE;RJ;Física
+772;Andsware Albuquerque;44;5;F;170;116;ZDF;MG;História
+773;Alfie Albuquerque;23;4;M;175;49;LQY;MG;Biologia
+774;Arden Albuquerque;75;3;F;170;70;JNU;RS;Física
+775;Alger Albuquerque;64;1;M;137;86;KHI;SP;Biologia
+776;Alburtus Albuquerque;49;2;F;187;96;GIK;RS;Química
+777;Aldwin Albuquerque;45;1;F;174;94;WIV;MG;Matemática
+778;Aldous Albuquerque;61;8;F;132;54;EPZ;RJ;Física
+779;Aldhelm Albuquerque;54;9;F;110;55;XNA;RJ;Biologia
+780;Alwyn Albuquerque;40;10;M;189;93;USO;MG;História
+781;Albany Albuquerque;46;6;M;108;121;CZF;RS;Física
+782;Alger Albuquerque;66;10;M;127;108;PVK;SP;Matemática
+783;Álvaro Silva;34;5;F;106;106;SUN;RJ;História
+784;Antonio Silva;41;3;M;143;62;LMR;PR;Física
+785;Andrés Silva;66;7;M;161;78;HNV;SP;Biologia
+786;Adrián Silva;73;1;M;164;61;DXW;RS;Biologia
+787;Alberto Silva;39;10;M;104;106;KBF;PR;Biologia
+788;Ángel Silva;36;6;M;112;50;AMI;SP;História
+789;Alejandro Silva;29;0;F;115;77;WHI;PR;História
+790;Alfonso Silva;31;2;F;148;104;LEV;RJ;História
+791;Arturo Silva;59;4;F;189;65;WDB;PR;Biologia
+792;Agustín Silva;36;1;M;178;96;GHI;RS;História
+793;Arnaldo Silva;78;4;F;190;77;FRE;RJ;História
+794;Aarón Silva;75;7;F;195;73;CIC;SP;Química
+795;Amador Silva;31;8;F;127;49;UXN;RS;História
+796;Alejo Silva;65;0;M;144;93;FSG;PR;Matemática
+797;Alonso Silva;36;2;F;110;64;LWF;MG;História
+798;Armando Silva;30;10;M;103;59;NPT;RJ;Biologia
+799;Aníbal Silva;65;3;M;192;104;HXN;RJ;Biologia
+800;Abel Silva;46;9;M;155;75;ATD;RJ;Biologia
+801;Adolfo Silva;78;6;F;149;107;EUB;MG;Matemática
+802;Alan Silva;19;1;M;156;60;LTU;MG;Física
+803;Aldo Silva;54;5;F;141;69;PVD;RS;Biologia
+804;Amado Silva;37;6;M;108;45;WOP;RS;História
+805;Apolo Silva;70;7;F;187;72;SOV;RJ;Matemática
+806;Aleix Silva;57;6;M;167;61;QQR;RS;Matemática
+807;Albino Silva;42;3;F;162;60;MPF;SP;Física
+808;Alarico Silva;65;4;M;170;101;HQI;MG;História
+809;Alfredo Silva;75;4;M;149;71;?;SP;Matemática
+810;Alcides Silva;48;5;F;101;105;OGD;RS;Física
+811;Axel Silva;68;1;M;168;121;EBI;MG;Física
+812;Aurelio Silva;71;5;M;156;122;NZE;SP;Matemática
+813;Adriana Silva;59;10;M;134;110;KXK;PR;Biologia
+814;Ángela Silva;78;8;F;128;100;UZI;RJ;Biologia
+815;Ana Silva;39;4;F;166;78;MBB;PR;Química
+816;Alicia Silva;74;8;M;118;112;FED;PR;Matemática
+817;Andrea Silva;39;6;F;175;49;OQO;RS;História
+818;Antonia Silva;59;5;M;148;49;ICH;PR;Biologia
+819;Amalia Silva;72;9;M;157;94;ZEJ;MG;Biologia
+820;Aurora Silva;22;1;M;145;99;CJE;MG;Matemática
+821;Alejandra Silva;48;2;F;139;88;FFU;RS;Química
+822;Agustina Silva;50;10;F;172;111;CGO;?;Biologia
+823;Áurea Silva;44;8;F;126;89;VJH;RS;Matemática
+824;Alma Silva;64;3;M;192;63;ZZO;RJ;Química
+825;Amparo Silva;42;1;F;163;52;AJK;SP;Física
+826;Araceli Silva;38;2;M;189;118;JBE;MG;Física
+827;Ainhoa Silva;40;7;M;158;66;XSZ;RS;Biologia
+828;Alba Silva;46;4;F;170;86;EWS;MG;Química
+829;Almudena Silva;46;5;F;137;77;HMM;SP;Matemática
+830;Arantxa Silva;62;9;M;188;53;YWE;RJ;Química
+831;Ascensión Silva;53;7;F;135;60;WVW;RJ;Química
+832;Asunción Silva;38;2;M;199;86;GOI;SP;Física
+833;Ágata Silva;71;3;F;176;73;KIL;PR;Química
+834;Azucena Silva;43;8;F;108;120;ZAO;RJ;História
+835;Anabel Silva;28;6;M;185;113;AJK;SP;Física
+836;Alondra Silva;27;2;F;154;108;UNZ;RS;Química
+837;África Silva;20;8;F;107;79;MJU;MG;Biologia
+838;Alina Silva;55;8;M;140;122;RJM;PR;Biologia
+839;Amaya Silva;73;0;M;157;92;YPP;RJ;Matemática
+840;Angeles Silva;51;9;F;161;56;JWD;MG;Química
+841;Artemisa Silva;35;2;M;177;63;HJB;RS;Física
+842;Adela Silva;74;10;F;177;70;CRI;PR;Física
+843;Alex Silva;73;1;M;186;73;MRJ;PR;Matemática
+844;Adrian Silva;55;2;M;123;105;JGY;PR;Química
+845;Angel Silva;76;3;F;107;50;FTO;SP;Química
+846;Avery Silva;35;7;F;140;95;CWY;RJ;Física
+847;Ariel Silva;24;8;M;148;67;IDO;RJ;Química
+848;Ashley Silva;20;5;F;172;46;KJK;SP;Matemática
+849;Aspen Silva;26;9;F;131;113;GPR;RJ;História
+850;August Silva;20;4;M;141;51;ZGL;SP;Biologia
+851;Andy Silva;58;0;F;184;102;NFK;SP;Física
+852;Aubrey Silva;71;7;M;180;52;OXM;RJ;Biologia
+853;Amari Silva;38;5;F;156;112;LTX;SP;Biologia
+854;Ali Silva;60;2;M;120;57;BVI;RS;Matemática
+855;Arden Silva;38;6;M;125;105;GRK;SP;História
+856;Adair Silva;40;2;F;187;105;WPC;PR;Física
+857;Alva Silva;33;0;M;107;54;ULB;MG;História
+858;Anton Silva;48;2;M;169;54;TQA;RJ;Matemática
+859;Asa Silva;18;4;F;167;80;IFQ;SP;História
+860;Ainsley Silva;19;6;M;170;74;LJJ;RS;Física
+861;Auden Silva;78;4;F;200;75;HND;SP;Química
+862;Armani Silva;23;2;F;197;61;AVW;MG;Matemática
+863;Alden Silva;58;10;M;169;104;XFI;PR;Matemática
+864;Alton Silva;38;4;M;116;59;OVT;RS;Química
+865;Aries Silva;69;8;F;188;96;PTT;SP;Química
+866;Azariah Silva;69;2;M;131;111;BDG;MG;Matemática
+867;Allyn Silva;65;2;F;120;71;?;RS;Matemática
+868;Aja Silva;48;7;F;144;53;XMR;SP;Biologia
+869;Arlen Silva;44;4;F;133;72;UEU;MG;Biologia
+870;Amal Silva;56;3;F;110;67;HBY;PR;Matemática
+871;Artis Silva;34;1;M;102;76;XHG;MG;Matemática
+872;Azriel Silva;57;8;M;163;68;YUO;SP;Física
+873;Adélaïde Silva;21;1;M;119;69;?;MG;Química
+874;Adeline Silva;66;2;M;181;54;JLH;RJ;Biologia
+875;Alice Silva;34;7;F;122;104;AMJ;PR;Física
+876;Amélie Silva;40;1;F;138;120;QYT;MG;História
+877;Angélique Silva;73;9;M;108;76;ATM;RJ;Matemática
+878;Annette Silva;60;1;M;180;120;UOH;RJ;Matemática
+879;Ariane Silva;45;8;F;145;68;FWC;RJ;Matemática
+880;Astrid Silva;61;8;M;162;62;DZC;RS;História
+881;Audrey Silva;21;6;M;187;101;BUV;SP;?
+882;Aurore Silva;29;0;M;100;48;VVS;PR;Matemática
+883;Agathe Silva;63;8;F;155;101;FNN;RJ;Biologia
+884;Alphonsine Silva;31;9;M;113;75;JYY;MG;História
+885;Anastasie Silva;40;1;M;121;122;DXW;RS;Biologia
+886;Antoinette Silva;24;0;M;176;68;JJG;RS;Biologia
+887;Apolline Silva;70;1;M;134;89;LFQ;PR;Matemática
+888;Arlette Silva;27;6;F;196;58;KMS;MG;Biologia
+889;Armelle Silva;62;4;M;190;99;FHI;RS;Biologia
+890;Athénaïs Silva;22;0;F;131;52;EQR;SP;Matemática
+891;Aveline Silva;30;1;F;189;114;EUU;SP;Matemática
+892;Azélie Silva;69;10;F;127;53;XBG;SP;Matemática
+893;Aimée Silva;56;6;F;143;84;GQH;MG;Química
+894;Albertine Silva;67;8;F;188;66;PMR;MG;Física
+895;Alexandrine Silva;34;7;M;109;58;CZA;SP;Física
+896;Alix Silva;75;7;M;183;98;MAT;SP;Matemática
+897;Alma Silva;40;6;F;184;67;IUO;MG;Química
+898;Alphonsine Silva;60;0;F;107;54;XOV;?;Química
+899;Ambre Silva;45;1;F;151;70;RTU;RS;História
+900;Anaïs Silva;56;4;F;147;117;MAW;SP;Química
+901;Angèle Silva;67;4;F;164;52;WEZ;MG;Física
+902;Antonia Silva;65;10;F;163;119;SST;SP;Biologia
+903;Alain Silva;41;2;F;198;66;ZFE;RS;Biologia
+904;Alexandre Silva;59;8;M;110;102;TPV;MG;Biologia
+905;Antoine Silva;64;5;M;121;76;XTT;RJ;História
+906;Albert Silva;40;0;M;123;59;ZMJ;RS;História
+907;André Silva;27;7;F;200;48;TRM;MG;Biologia
+908;Arnaud Silva;70;6;M;135;54;LNN;SP;Química
+909;Arthur Silva;78;3;M;137;100;PBM;RS;História
+910;Auguste Silva;65;8;F;179;87;CVD;PR;História
+911;Aubin Silva;56;1;F;103;99;UZF;PR;Matemática
+912;Aurélien Silva;41;3;F;154;97;JIU;RS;Química
+913;Adrien Silva;33;9;M;110;71;HKC;PR;Matemática
+914;Anselme Silva;46;9;F;198;85;HHM;RS;Matemática
+915;Adolphe Silva;44;1;M;108;89;KTT;SP;História
+916;Amédée Silva;29;9;F;198;97;QRM;RS;Física
+917;Amaury Silva;47;4;M;188;80;NTD;RS;Biologia
+918;Angelo Silva;67;9;M;144;61;VJJ;RS;Biologia
+919;Armand Silva;41;8;M;149;70;NWG;RS;Física
+920;Achille Silva;44;5;M;103;45;XRZ;SP;História
+921;Alfred Silva;31;6;M;156;75;GJV;PR;Biologia
+922;Alphonse Silva;39;0;M;116;114;MRU;RS;Química
+923;Axel Silva;72;4;F;150;45;YMR;PR;Física
+924;Alaric Silva;56;6;M;115;71;VEX;SP;Biologia
+925;Alban Silva;57;7;M;144;86;GUV;SP;História
+926;Ambroise Silva;65;6;M;141;112;CWV;PR;Biologia
+927;Arnold Silva;78;4;F;131;118;COF;MG;Química
+928;Ariel Silva;44;10;F;150;69;WSC;SP;História
+929;Antonin Silva;69;8;M;163;56;BMC;MG;Química
+930;Aristide Silva;74;1;M;117;119;URD;RJ;Química
+931;Adémar Silva;53;1;F;146;62;GYV;MG;Química
+932;Athanase Silva;68;6;F;136;92;TGG;MG;Química
+933;Abigail Silva;58;5;M;172;110;SUP;SP;Matemática
+934;Alice Silva;29;5;M;122;79;DGI;PR;Matemática
+935;Amy Silva;52;5;F;175;79;OQL;RJ;Física
+936;Amelia Silva;32;5;F;116;106;VAL;RS;Física
+937;Ava Silva;75;7;M;113;115;TXO;RS;Química
+938;Avery Silva;53;9;M;112;112;CTO;RJ;Física
+939;Anna Silva;48;10;M;181;63;XOG;RJ;Química
+940;Alexandra Silva;71;0;M;127;51;WNU;SP;Química
+941;Ashley Silva;74;1;M;187;56;BLN;MG;Biologia
+942;Audrey Silva;57;7;M;159;48;PZC;RJ;Biologia
+943;Ariana Silva;65;8;M;157;114;WQG;PR;Química
+944;April Silva;29;4;F;141;71;CYF;SP;Matemática
+945;Autumn Silva;22;8;F;189;104;DPS;RJ;Matemática
+946;Ariel Silva;57;0;F;192;54;VBL;MG;Matemática
+947;Alison Silva;47;9;F;155;68;BCR;RS;História
+948;Angela Silva;29;1;F;199;66;BRW;SP;Biologia
+949;Allison Silva;61;0;F;172;101;XER;RJ;Matemática
+950;Aria Silva;63;2;M;168;52;DIC;PR;Física
+951;Annabelle Silva;24;10;F;187;56;JVK;SP;Biologia
+952;Alexa Silva;52;5;F;151;67;LVG;MG;
+953;Alyssa Silva;49;5;M;180;87;GQF;RJ;Biologia
+954;Adelaide Silva;45;5;M;111;79;XUB;SP;Matemática
+955;Amanda Silva;20;4;F;105;47;RCL;MG;Química
+956;Amber Silva;44;7;M;152;86;CCX;MG;Biologia
+957;Andrea Silva;26;8;M;163;96;SGG;RJ;Biologia
+958;Aurora Silva;24;10;M;149;55;JND;RJ;Matemática
+959;Angelina Silva;43;5;M;150;45;SWO;SP;Química
+960;Athena Silva;72;6;M;159;98;RCX;RS;Matemática
+961;Adeline Silva;56;10;M;109;63;JSD;SP;História
+962;Anastasia Silva;61;7;F;154;46;PUY;PR;História
+963;Alfred Silva;22;0;M;132;121;OFK;PR;Física
+964;Alvin Silva;49;1;M;197;76;ZGU;RJ;Física
+965;Albert Silva;56;10;M;168;59;CRB;SP;Matemática
+966;Arnold Silva;67;0;F;195;85;DJO;PR;Física
+967;Alton Silva;55;4;F;175;78;DJU;SP;Química
+968;Alaric Silva;26;6;F;103;104;EKE;RJ;Química
+969;Alden Silva;22;9;M;152;55;BBR;RS;História
+970;Alwin Silva;25;6;M;102;89;DTW;PR;Biologia
+971;Alban Silva;53;4;F;187;48;EID;RJ;Biologia
+972;Arvin Silva;39;7;M;160;55;EVW;MG;Física
+973;Asher Silva;42;3;M;160;101;MIP;PR;Biologia
+974;Avery Silva;76;3;M;157;94;IHZ;SP;História
+975;Albion Silva;27;6;F;198;114;RPH;RJ;Matemática
+976;Algar Silva;37;0;M;164;61;AXP;PR;Química
+977;Alric Silva;27;6;M;162;100;IPD;MG;História
+978;Aldric Silva;43;6;F;111;111;PUM;RS;Química
+979;Alburt Silva;24;7;F;127;49;EMU;SP;Matemática
+980;Almund Silva;43;4;F;137;115;VTY;RS;Matemática
+981;Albreda Silva;53;5;M;171;92;PWN;RJ;História
+982;Andsware Silva;66;8;M;164;86;PVR;SP;Biologia
+983;Alfie Silva;23;9;M;164;64;GDR;SP;Física
+984;Arden Silva;32;9;F;112;72;OBC;PR;História
+985;Alger Silva;72;0;M;101;48;VVE;MG;Física
+986;Alburtus Silva;76;4;F;179;105;YQZ;MG;Matemática
+987;Aldwin Silva;56;10;M;164;107;MJE;MG;Biologia
+988;Aldous Silva;24;7;F;185;89;SFQ;RJ;Matemática
+989;Aldhelm Silva;29;9;M;104;113;KVE;MG;História
+990;Alwyn Silva;29;9;F;155;57;OES;RS;Matemática
+991;Albany Silva;22;2;F;152;71;QEX;RS;Física
+992;Alger Silva;46;5;M;133;115;FXE;RJ;Biologia
+993;;72;7;M;161;46;DEC;RJ;História
+994;Álvaro Bonifácio;30;2;M;154;93;LHQ;RS;História
+995;Antonio Bonifácio;50;2;F;150;119;LKQ;RS;História
+996;Andrés Bonifácio;52;9;M;151;112;RJL;MG;Matemática
+997;Adrián Bonifácio;76;0;M;199;57;FJB;SP;Física
+998;Alberto Bonifácio;25;10;M;165;84;YOT;RJ;Matemática
+999;Ángel Bonifácio;63;8;F;112;77;GCN;RJ;Física
+1000;Alejandro Bonifácio;54;2;M;144;115;GQI;SP;Física
+1001;Alfonso Bonifácio;41;8;M;146;96;ETS;PR;História
+1002;Arturo Bonifácio;47;5;F;114;81;TMJ;MG;Biologia
+1003;Agustín Bonifácio;62;5;M;145;80;RUN;MG;História
+1004;Arnaldo Bonifácio;20;4;M;186;79;UOO;MG;Física
+1005;Aarón Bonifácio;26;2;F;186;118;DES;PR;Matemática
+1006;Amador Bonifácio;76;10;M;168;94;SOO;RS;Física
+1007;Alejo Bonifácio;28;2;M;148;84;PNK;PR;Física
+1008;Alonso Bonifácio;38;6;F;197;97;RLR;MG;Química
+1009;Armando Bonifácio;46;9;F;154;61;NEZ;RJ;Física
+1010;Aníbal Bonifácio;78;3;F;145;112;ZUT;MG;Biologia
+1011;Abel Bonifácio;30;6;M;177;110;PKL;MG;Biologia
+1012;Adolfo Bonifácio;36;8;M;189;88;FQN;MG;Química
+1013;Alan Bonifácio;69;0;F;146;66;JLE;SP;Química
+1014;Aldo Bonifácio;44;5;M;139;80;AYF;PR;Matemática
+1015;Amado Bonifácio;78;3;M;191;77;MXL;MG;Biologia
+1016;Apolo Bonifácio;29;7;M;180;117;KMK;MG;Matemática
+1017;Aleix Bonifácio;75;9;M;129;82;NNA;SP;Matemática
+1018;Albino Bonifácio;22;5;M;134;70;HSM;PR;Biologia
+1019;Alarico Bonifácio;38;6;F;119;108;ZDJ;MG;Química
+1020;Alfredo Bonifácio;23;8;M;192;88;YSK;RJ;Matemática
+1021;Alcides Bonifácio;55;8;M;200;51;QAH;RS;Química
+1022;Axel Bonifácio;20;6;F;190;45;RXY;RJ;Biologia
+1023;Aurelio Bonifácio;58;3;M;181;87;ZUR;MG;Matemática
+1024;Adriana Bonifácio;24;4;M;184;58;FOS;RS;História
+1025;Ángela Bonifácio;22;7;F;124;99;QSU;MG;Biologia
+1026;Ana Bonifácio;34;3;M;135;58;BXJ;RJ;Matemática
+1027;Alicia Bonifácio;32;9;M;116;77;SFI;PR;Física
+1028;Andrea Bonifácio;68;4;F;132;102;XRW;MG;Física
+1029;Antonia Bonifácio;55;6;F;162;83;RWN;MG;Matemática
+1030;Amalia Bonifácio;23;2;F;121;125;OJA;MG;História
+1031;Aurora Bonifácio;54;5;F;129;106;UHU;RS;Matemática
+1032;Alejandra Bonifácio;18;4;F;195;67;CFM;RJ;Biologia
+1033;Agustina Bonifácio;26;3;M;125;75;IMW;MG;Física
+1034;Áurea Bonifácio;43;0;M;166;109;QBW;SP;Matemática
+1035;Alma Bonifácio;38;5;F;188;104;KSU;RS;Física
+1036;Amparo Bonifácio;37;3;M;116;51;WNY;RJ;
+1037;Araceli Bonifácio;25;0;M;126;104;FCD;PR;História
+1038;Ainhoa Bonifácio;52;4;F;181;54;AYF;RS;Química
+1039;Alba Bonifácio;50;9;F;152;80;RNU;RJ;Física
+1040;Almudena Bonifácio;63;3;M;178;95;TKC;MG;Biologia
+1041;Arantxa Bonifácio;30;1;F;191;120;TIH;SP;Matemática
+1042;Ascensión Bonifácio;21;3;M;162;78;EHB;RS;Física
+1043;Asunción Bonifácio;66;3;M;143;110;ZYH;RS;Matemática
+1044;Ágata Bonifácio;57;7;F;149;73;OJO;RJ;Química
+1045;Azucena Bonifácio;67;7;F;121;117;TCF;RS;História
+1046;Anabel Bonifácio;41;3;M;183;115;QVZ;PR;Matemática
+1047;Alondra Bonifácio;41;4;M;147;61;QHC;SP;Biologia
+1048;África Bonifácio;37;9;F;186;62;MJL;SP;Química
+1049;Alina Bonifácio;62;0;F;143;116;TOM;SP;História
+1050;Amaya Bonifácio;62;10;F;100;106;NEZ;MG;Química
+1051;Angeles Bonifácio;64;2;F;161;49;HXC;PR;História
+1052;Artemisa Bonifácio;59;9;M;101;77;HSS;SP;Física
+1053;Adela Bonifácio;57;8;M;163;106;BRU;RS;Matemática
+1054;Alex Bonifácio;77;7;F;127;70;PYN;MG;Matemática
+1055;Adrian Bonifácio;56;8;F;104;85;RQO;PR;História
+1056;Angel Bonifácio;63;6;F;146;52;LOM;RJ;História
+1057;Avery Bonifácio;74;2;M;191;65;NII;SP;Matemática
+1058;Ariel Bonifácio;30;2;M;152;60;IZS;MG;Biologia
+1059;Ashley Bonifácio;72;2;M;125;89;SVK;RJ;Física
+1060;Aspen Bonifácio;19;9;M;129;120;RGV;PR;Física
+1061;August Bonifácio;61;9;F;150;121;VPF;RS;Biologia
+1062;Andy Bonifácio;67;2;F;166;48;YUX;SP;Biologia
+1063;Aubrey Bonifácio;31;4;F;103;95;STH;SP;Física
+1064;Amari Bonifácio;39;4;M;117;99;IIX;RJ;Biologia
+1065;Ali Bonifácio;70;7;M;122;92;DXJ;MG;Matemática
+1066;Arden Bonifácio;54;0;F;166;100;TQF;SP;Física
+1067;Adair Bonifácio;50;3;F;154;52;QTD;RS;Matemática
+1068;Alva Bonifácio;75;0;F;191;121;LVP;RS; 
+1069;Anton Bonifácio;52;8;M;184;66;SWD;MG; 
+1070;Asa Bonifácio;33;1;M;182;79;SSR;RS;Biologia
+1071;Ainsley Bonifácio;66;6;M;119;121;FNX;RJ;Química
+1072;Auden Bonifácio;34;4;M;134;77;LYH; ;Matemática
+1073;Armani Bonifácio;74;3;F;143;114;COF;MG;Química
+1074;Alden Bonifácio;38;0;F;126;71;JOJ; ; 
+1075;Alton Bonifácio;33;9;M;134;66;BCD; ; 
+1076;Aries Bonifácio;76;10;F;117;63;DMI; ;Biologia
+1077;Azariah Bonifácio;58;7;M;133;112;YMX; ; 
+1078;Allyn Bonifácio;65;7;F;196;100;WIK;?;História
+1079;Aja Bonifácio;60;4;M;145;93;TTK;RJ;Biologia
+1080;Arlen Bonifácio;45;9;M;140;54;QJJ;MG;História
+1081;Amal Bonifácio;72;0;M;148;93;UIX;RJ;Física
+1082;Artis Bonifácio;57;0;F;177;83;WNS;PR;Física
+1083;Azriel Bonifácio;23;3;M;160;54;LLC;PR;Química
+1084;Adélaïde Bonifácio;52;6;F;171;109;ODC;RJ; 
+1085;Adeline Bonifácio;76;6;F;150;102;VJP;PR;Física
+1086;Alice Bonifácio;69;5;F;147;88;SWI;MG;Matemática
+1087;Amélie Bonifácio;24;10;F;112;104;QNG;PR;Química
+1088;Angélique Bonifácio;67;1;F;176;73;MUG;MG;Matemática
+1089;Annette Bonifácio;60;4;M;110;53;HOG;PR;Química
+1090;Ariane Bonifácio;27;6;M;200;48;UBQ;RS;Física
+1091;Astrid Bonifácio;64;7;M;198;50;KOI;RS;História
+1092;Audrey Bonifácio;78;7;M;115;107;PKL;MG;Biologia
+1093;Aurore Bonifácio;40;1;F;138;95;MKK;PR;Química
+1094;Agathe Bonifácio;68;10;F;185;69;BQB;PR;Matemática
+1095;Alphonsine Bonifácio;72;7;F;175;114;KFN;RS;Matemática
+1096;Anastasie Bonifácio;36;7;F;151;113;WKP;SP;História
+1097;Antoinette Bonifácio;68;2;M;197;95;CAV;MG; 
+1098;Apolline Bonifácio;29;5;M;173;91;ZHF;PR; 
+1099;Arlette Bonifácio;20;9;M;186;78;EJT;SP; 
+1100;Armelle Bonifácio;23;0;M;160;71;XIO;MG;História
+1101;Athénaïs Bonifácio;19;2;M;157;51;IEU;RJ;Matemática
+1102;Aveline Bonifácio;63;1;F;184;120;ZNH;RJ;Química
+1103;Azélie Bonifácio;49;5;F;126;70;AHT;RJ;História
+1104;Aimée Bonifácio;63;3;M;174;97;MPS;RJ;Física
+1105;Albertine Bonifácio;23;0;M;192;77;HRT;MG;História
+1106;Alexandrine Bonifácio;33;2;M;144;106;APE;PR;Química
+1107;Alix Bonifácio;67;8;M;104;112;NTZ;MG;História
+1108;Alma Bonifácio;44;0;F;106;61;XQO;MG;Física
+1109;Alphonsine Bonifácio;33;5;F;181;72;RYC;MG;Física
+1110;Ambre Bonifácio;48;2;M;117;111;FFE;SP;Física
+1111;Anaïs Bonifácio;63;8;M;152;101;QDV;SP;Biologia
+1112;Angèle Bonifácio;18;8;M;121;60;SYL;SP;Física
+1113;Antonia Bonifácio;75;1;F;184;117;EUW;RJ;História
+1114;Alain Bonifácio;62;5;F;155;49;WPE;RJ;Química
+1115;Alexandre Bonifácio;50;2;M;176;45;KUC;PR;Biologia
+1116;Antoine Bonifácio;51;0;F;104;61;GBB;SP;Física
+1117;Albert Bonifácio;51;8;M;184;101;KHQ;PR;Matemática
+1118;André Bonifácio;36;3;M;156;102;QBF;MG;História
+1119;Arnaud Bonifácio;23;1;M;143;123;GSQ;SP;Matemática
+1120;Arthur Bonifácio;40;4;F;106;78;ZZC;MG;Matemática
+1121;Auguste Bonifácio;44;6;F;172;125;MGL;PR;História
+1122;Aubin Bonifácio;51;10;M;120;87; ;?;Matemática
+1123;Aurélien Bonifácio;44;4;F;190;103;SXU;SP;História
+1124;Adrien Bonifácio;77;3;M;113; ;EGH;SP;Química
+1125;Anselme Bonifácio;20;8;F;145;115;KNQ;PR;História
+1126;Adolphe Bonifácio;48;10;F;114;106;AEE;MG;Biologia
+1127;Amédée Bonifácio;41;3;M;131;96;ZBE;MG;Física
+1128;Amaury Bonifácio;44;0;M;160;111;ATB;MG;Biologia
+1129;Angelo Bonifácio;50;2;M;159;80;ORK;SP;Matemática
+1130;Armand Bonifácio;50;8;F;125;113;ECB;RJ;Química
+1131;Achille Bonifácio;57;7;M;153;68;LQH;PR;Química
+1132;Alfred Bonifácio;55;0;F;198; ;XUF;RS;Física
+1133;Alphonse Bonifácio;18;2;F;141;120;YMT;?;Química
+1134;Axel Bonifácio;55;3;M;152;53;PAF;SP;Biologia
+1135;Alaric Bonifácio;37;2;M;126;108;XTQ;PR;História
+1136;Alban Bonifácio;39;3;M;118;116;WLU;RJ;Biologia
+1137;Ambroise Bonifácio;77;1;M;188; ;PED;;Matemática
+1138;Arnold Bonifácio;37;8;M;133;108;QFZ;MG;História
+1139;Ariel Bonifácio;60;4;M;170;104;KTX;SP;História
+1140;Antonin Bonifácio;30;2;M;115;90;HJC;PR;Matemática
+1141;Aristide Bonifácio;35;10;F;198;121;BCT;RS; 
+1142;Adémar Bonifácio;28;10;M;101;110;MCI;RJ; 
+1143;Athanase Bonifácio;57;8;F;192;71;VZK;MG; 
+1144;Abigail Bonifácio;70;4;F;151;46;IWJ;MG;Biologia
+1145;Alice Bonifácio;77;3;M;164;50;EFY;PR;História
+1146;Amy Bonifácio;78;4;F;185;99;INB;SP;História
+1147;Amelia Bonifácio;24;4;F;132;124;ZHJ;MG;Biologia
+1148;Ava Bonifácio;39;4;M;184;64;DSQ;RJ;História
+1149;Avery Bonifácio;20;9;M;162;99;AHR;MG;História
+1150;Anna Bonifácio;22;8;F;144;72;JZC;RJ;Física
+1151;Alexandra Bonifácio;72;10;M;129;60;QQV;MG;Química
+1152;Ashley Bonifácio;57;6;F;130;111;JOO;?;Química
+1153;Audrey Bonifácio;77;9;M;126;59;MFI;SP;Biologia
+1154;Ariana Bonifácio;22;1;F;140;45;VRH;MG;Física
+1155;April Bonifácio;50;10;M;144;69;OTE;MG;Física
+1156;Autumn Bonifácio;21;3;M;188;54;DZI;PR;Matemática
+1157;Ariel Bonifácio;47;8;M;189;68;SIA;RJ;Física
+1158;Alison Bonifácio;66;2;M;106;62;GZY;SP;Matemática
+1159;Angela Bonifácio;74;1;M;123;86;DSJ;RJ;Biologia
+1160;Allison Bonifácio;75;7;F;183;81;IQX;SP;Matemática
+1161;Aria Bonifácio;43;6;F;138;75;GQV;RS;História
+1162;Annabelle Bonifácio;44;7;M;197;92;KGT;PR;Química
+1163;Alexa Bonifácio;78;3;M;132;110;;MG;Química
+1164;Alyssa Bonifácio;55;9;F;200;45;?;PR;Biologia
+1165;Adelaide Bonifácio;24;6;M;197;66;ZMT;MG;Química
+1166;Amanda Bonifácio;51;3;M;128;115;CCI;PR;Física
+1167;Amber Bonifácio;29;10;F;165;61;UZW;PR;Física
+1168;Andrea Bonifácio;25;7;M;195;85;XQN;RS;Biologia
+1169;Aurora Bonifácio;74;2;F;185;121;ZCX;MG;Física
+1170;Angelina Bonifácio;40;6;M;124;60;ZEM;SP;Física
+1171;Athena Bonifácio;58;0;F;199;114;IHA;MG;Química
+1172;Adeline Bonifácio;34;9;M;167;80;IKK;SP;Química
+1173;Anastasia Bonifácio;33;5;M;124;50;PGJ;RJ;História
+1174;Alfred Bonifácio;26;3;F;118;99;ETC;RS;Biologia
+1175;Alvin Bonifácio;52;2;F;166;83;ONH;RS;Química
+1176;Albert Bonifácio;22;7;M;106;58;JYK;PR;Biologia
+1177;Arnold Bonifácio;68;6;M;102;56;MLX;MG;Física
+1178;Alton Bonifácio;36;10;M;170;122;BBN;PR;Física
+1179;Alaric Bonifácio;43;7;F;116;114;UBC;MG; 
+1180;Alden Bonifácio;45;1;F;163;115;FKC; ; 
+1181;Alwin Bonifácio;77;2;F;139;66;EPF;MG;Matemática
+1182;Alban Bonifácio;50;0;F;124;94;KZE;SP;Química
+1183;Arvin Bonifácio;21;3;F;185;101;CTZ;MG;História
+1184;Asher Bonifácio;37;1;M;198;65;GBG;RS;Matemática
+1185;Avery Bonifácio;69;8;F;171;101;QZI;MG;Matemática
+1186;Albion Bonifácio;36;10;F;134;122;?;PR;Biologia
+1187;Algar Bonifácio;41;5;M;179;119;IRC;SP;Matemática
+1188;Alric Bonifácio;23;9;M;115;72;AGZ;SP; 
+1189;Aldric Bonifácio;42;9;F;149;123;XSL;RS;Química
+1190;Alburt Bonifácio;24;7;F;165;64;CMP;MG;Física
+1191;Almund Bonifácio;48;7;M;389;114;CQJ;RJ;Matemática
+1192;Albreda Bonifácio;44;2;M;154;57;LPU;RJ;História
+1193;Andsware Bonifácio;20;1;M;100;109;MIS;MG;Física
+1194;Alfie Bonifácio;64;8;M;146;76;BRE;RJ;Química
+1195;Arden Bonifácio;37;2;F;164;50;YBJ;PR;Biologia
+1196;Alger Bonifácio;27;7;F;140;94;QUK;RJ;História
+1197;Alburtus Bonifácio;32;4;F;436;100;IRE;RJ;Física
+1198;Aldwin Bonifácio;64;9;M;136;91;QKL;SP;Química
+1199;Aldous Bonifácio;63;1;F;197;50;HLC;PR;Matemática
+1200;Aldhelm Bonifácio;22;8;F;144;124;?;PR;Química
+1201;Alwyn Bonifácio;19;1;F;105;58;QSO;PR;Matemática
+1202;Albany Bonifácio;76;2;M;115;52;BLX;SP;Física
+1203;Alger Bonifácio;64;1;M;431;53;UJE;PR;Biologia
+1204;Nycolas;43;4;M;147;78;WSI;SP;História
+1205;Chileine;78;9;M;109;123;HKP;RS;Física
+1206;Lucio;75;0;F;104;108;KEP;PR;Física
+1207;Mauro;36;0;F;150;92;LTI;MG;Matemática
+1208;Hector;68;7;F;421;101;YDR;PR;História
+1209;Julio;40;7;M;141;71;EWW;RJ;Física
+1210;Robson;69;10;M;184;79;FFE;RJ;História
+1211;;32;1;M;130;66;LKD;?;Biologia
+1212;Clelia;35;10;M;195;47;APL;PR;Matemática
+1213;Gilberto;58;10;M;132;71;TBK;PR;Matemática
+1214;Vinicius;68;9;M;156;116;NGV;MG;Química
+1215;Cristiane;25;7;M;114;58;IFJ;MG;Biologia
+1216;Aparecida;69;7;M;136;99;QWK;MG;Química
+1217;Alex;42;6;M;188;48;CGI;RJ;Física
+1218;Antônio;47;8;F;512;84;ZQC;MG;História
+1219;Mirian;65;8;M;160;125;FDE;MG;Física
+1220;Eloa;62;4;M;198;78;WFN;SP;História
+1221;;78;2;F;399;76;LJD;RJ;História
+1222;;45;9;M;136;68;HBM;MG;História
+1223;Emerson;73;2;F;116;57;IRE;?;Física
+1224;Cleberto;76;10;M;110;48;QKL;SP;Química
+1225;Luiz Henrique;35;8;F;150;82;HLC;PR;Matemática
+1226;Marcos;65;1;F;145;77;?;PR;Química
+1227;Renato;77;7;F;114;99;QSO;PR;Matemática
+1228;Gisele;61;2;M;101;48;BLX;SP;Física
+1229;Carlos;67;5;M;198;75;UJE;PR;Biologia
+1230;Matheus;21; ;F;411;59;KFN;RS;Matemática
+1231;Cristiano;42; ;F;128;114;WKP; ;História
+1232;Alberto;66;4;M;175;58;CAV;MG;Física
+1233;Jonas;24;5;?;200;73;ZHF;PR;Matemática
+1234;Sidnei;22;10;M;346;51;EJT; ;Química
+1235;Eustáquio;71;7;M;139;100; ;MG;História
+1236;Benedito;25;10;?;?;98; ;?;Matemática
+1237;Rafael;36;6;F;172;?;ZNH;RJ;Química
+1238;Nicole;46; ;F;412;92;AHT;?;História
+1239;Victoria;72; ;M;151; ;MPS;RJ;Física
+1240;Julia;60; ;M;500;?;HRT;MG;História
+1241;Patricia;76;10;M;110;48;QKL;SP;Química
+1242;Eder;35;8;F;150;82;HLC;PR;Matemática
+1243;Pedro;19;1;F;105;58;QSO;PR;Matemática
+1244;Marinaldo;76;2;M;115;52;BLX;SP;Física
+1245;Sivaldo;64;1;M;431;53;UJE;PR;Biologia
+1246;Silvio;43;4;M;147;78;WSI;SP;História
+1247;Davi;78;9;M;109;123;HKP;RS;Física
+1248;Fabio;75;0;F;104;108;KEP;PR;Física
+1249;Eduardo;36;0;F;150;92;LTI;MG;Matemática
+1250;Michele;68;7;F;421;101;YDR;PR;História
+1251;Fatima;40;7;M;141;71;EWW;RJ;Física
+1252;Anaelton;69;10;M;184;79;FFE;RJ;História
+1233;Jonas;24;5;?;200;73;ZHF;PR;Matemática
+1234;Sidnei;22;10;M;346;51;EJT; ;Química
+1235;Eustáquio;71;7;M;139;100; ;MG;História
+1236;Benedito;25;10;?;?;98; ;?;Matemática
+1237;Rafael;36;6;F;172;?;ZNH;RJ;Química
+1238;Nicole;46; ;F;412;92;AHT;?;História
+1239;Victoria;72; ;M;151; ;MPS;RJ;Física
+1240;Julia;60; ;M;500;?;HRT;MG;História
+1241;Patricia;76;10;M;110;48;QKL;SP;Química
+1242;Eder;35;8;F;150;82;HLC;PR;Matemática
+1243;Pedro;19;1;F;105;58;QSO;PR;Matemática
+1244;Marinaldo;76;2;M;115;52;BLX;SP;Física
+1245;Sivaldo;64;1;M;431;53;UJE;PR;Biologia
+1246;Silvio;43;4;M;147;78;WSI;SP;História
+1247;Davi;78;9;M;109;123;HKP;RS;Física
+1248;Fabio;75;0;F;104;108;KEP;PR;Física
+1249;Eduardo;36;0;F;150;92;LTI;MG;Matemática
+1250;Michele;68;7;F;421;101;YDR;PR;História
+1251;Fatima;40;7;M;141;71;EWW;RJ;Física
+1252;Anaelton;69;10;M;184;79;FFE;RJ;História
+Subtotal;27/09/2023;;;V=10;OBS=1240;Fim de página;;;fim page
